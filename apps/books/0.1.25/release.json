@@ -1,0 +1,20 @@
+﻿{
+    "schemaVersion":  1,
+    "packageName":  "io.github.willianchavez.books",
+    "release":  {
+                    "versionCode":  1025,
+                    "versionName":  "0.1.25",
+                    "minSdk":  26,
+                    "architectures":  [
+                                          "arm64-v8a",
+                                          "armeabi-v7a",
+                                          "x86",
+                                          "x86_64"
+                                      ],
+                    "url":  "https://willianchavez.github.io/winali-downloads/apps/books/0.1.25/books.apk",
+                    "size":  10538223,
+                    "sha256":  "1a695c9199c0ae7077e64f4b9ec20fe79ef68890288bf2215138c123bf2211c8",
+                    "certificateSha256":  "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
+                    "changelog":  "Books 0.1.25\r\n\r\n- El aviso «Deshacer» (marcadores, subrayados y colores) se muestra completo por encima de la barra de controles; antes quedaba parcialmente tapado por ella."
+                }
+}
