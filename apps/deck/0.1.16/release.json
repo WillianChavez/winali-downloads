@@ -1,0 +1,20 @@
+{
+    "schemaVersion":  1,
+    "packageName":  "io.github.willianchavez.deck",
+    "release":  {
+                    "versionCode":  1016,
+                    "versionName":  "0.1.16",
+                    "minSdk":  26,
+                    "architectures":  [
+                                          "arm64-v8a",
+                                          "armeabi-v7a",
+                                          "x86",
+                                          "x86_64"
+                                      ],
+                    "url":  "https://willianchavez.github.io/winali-downloads/apps/deck/0.1.16/deck.apk",
+                    "size":  3724058,
+                    "sha256":  "7c761c6aca0d78ed41a6b0dd441e9dfab1a044b35592e87147927b314641928f",
+                    "certificateSha256":  "208bf7a7a1b7c207bc2a8e0bb483a30fce3b4cdaad488b88c2927f6965a70ca8",
+                    "changelog":  "Deck 0.1.16\n\n- Iconos de volumen nuevos: un altavoz limpio con una onda para bajar y dos para subir. Las teclas que ya tenÃ­an los iconos anteriores los cambian solas. En el telÃ©fono las ondas se animan mientras mantienes pulsado.\n- Solo iconos: en el ajuste del perfil (âš™) marca Â«Solo iconos en el telÃ©fonoÂ» y las teclas con imagen se muestran mÃ¡s grandes y sin nombre. Una tecla sin imagen conserva su nombre.\n- Android: cuando una pulsaciÃ³n falla, el mensaje flota sobre la pantalla en lugar de encoger todas las teclas.\n- Windows: clic derecho en un perfil de la lista para eliminarlo, o el botÃ³n Â«Eliminar perfilÂ» en el ajuste del perfil; en los dos casos pide confirmaciÃ³n.\n- Windows: se quita Â«Iconos de appsÂ» del menÃº â˜°.\n- Windows: Deck busca una versiÃ³n nueva al arrancar, aunque empiece oculto en la bandeja, asÃ­ el botÃ³n Â«ActualizarÂ» ya estÃ¡ al abrir la ventana.\n- Las descargas de Deck se publican ahora en el sitio de descargas estÃ¡tico de Winali, no en una Release de GitHub."
+                }
+}
