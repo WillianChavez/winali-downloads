@@ -15,6 +15,6 @@
                     "size":  10538219,
                     "sha256":  "d7a6bd8e5a3032066ee8a55990343789e97a49359aace02857ba8c19b04cb989",
                     "certificateSha256":  "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
-                    "changelog":  "Books 0.1.24\r\n\r\n- La barra de controles ya es opaca: el texto de la pÃ¡gina no se transparenta detrÃ¡s de ella ni bajo la zona de gestos del sistema.\r\n- Los paneles de Ajustes, Ãndice y notas ya no tiemblan al desplazar su lista hasta el final y volver; la hoja mantiene una altura fija y no se arrastra por error.\r\n- El corazÃ³n es un marcador de verdad: se rellena de rojo, hace una pequeÃ±a animaciÃ³n, muestra una cinta roja en la esquina de la pÃ¡gina marcada y se vuelve a pulsar para quitarlo. Ambas acciones se pueden deshacer.\r\n- Los controles no se ocultan mientras aparece el aviso de deshacer."
+                    "changelog":  "Books 0.1.24\r\n\r\n- La barra de controles ya es opaca: el texto de la página no se transparenta detrás de ella ni bajo la zona de gestos del sistema.\r\n- Los paneles de Ajustes, Índice y notas ya no tiemblan al desplazar su lista hasta el final y volver; la hoja mantiene una altura fija y no se arrastra por error.\r\n- El corazón es un marcador de verdad: se rellena de rojo, hace una pequeña animación, muestra una cinta roja en la esquina de la página marcada y se vuelve a pulsar para quitarlo. Ambas acciones se pueden deshacer.\r\n- Los controles no se ocultan mientras aparece el aviso de deshacer."
                 }
 }
