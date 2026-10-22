@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.read",
+  "release": {
+    "versionCode": 1003,
+    "versionName": "0.1.3",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/read/read.apk",
+    "size": 9298254,
+    "sha256": "282f0ad9dc572b3c74e80e4f70a0d7d65ee831cfb38338e601c92c786aa58f18",
+    "certificateSha256": "dd6ee4514740d45beab6a092b117c57d5f3e51cde311dcc0c92ac71cb6d78b99",
+    "changelog": "Read 0.1.3\n\n- Cabecera de lectura más compacta, sin el espacio adicional bajo la barra de estado.\n- El zoom con dos dedos conserva el punto señalado y permite mover el documento mientras lo amplías.\n- Doble toque para ampliar una zona y volver al ancho de página.\n- Las páginas conservan su imagen durante el gesto y recuperan nitidez al terminar de ampliar.\n- Zoom de imágenes centrado en los dedos y desplazamiento limitado a sus bordes."
+  }
+}
