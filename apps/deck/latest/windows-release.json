@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
     "app":  "deck",
-    "version":  "0.1.17",
+    "version":  "0.1.18",
     "name":  "deck-windows-x64.exe",
     "url":  "https://willianchavez.github.io/winali-downloads/apps/deck/latest/deck-windows-x64.exe",
-    "size":  13623808,
-    "sha256":  "c07377abdbee0fa313342ae85df3f31844ea76849f984407a75cea8f9f6159e9"
+    "size":  13627904,
+    "sha256":  "ccaccabac1b25da6638cfd60f2fb374da3dfa4e0abe6e66d57567e442103d99c"
 }
