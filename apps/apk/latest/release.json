@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "packageName": "io.github.willianchavez.apk",
   "release": {
-    "versionCode": 1001,
-    "versionName": "0.1.1",
+    "versionCode": 1002,
+    "versionName": "0.1.2",
     "minSdk": 26,
     "architectures": [
       "arm64-v8a",
@@ -11,10 +11,10 @@
       "x86",
       "x86_64"
     ],
-    "url": "https://willianchavez.github.io/winali-downloads/apps/apk/0.1.1/apk.apk",
-    "size": 1360227,
-    "sha256": "238cb6a7f12297e6847fe9d42180f5b6a47a0e89308bd32924c974cee483bb3b",
+    "url": "https://willianchavez.github.io/winali-downloads/apps/apk/0.1.2/apk.apk",
+    "size": 1360263,
+    "sha256": "ab3c8c01f5788bf6166d9fc0f23a5789a13198e282f9080aa8398b8da44041ce",
     "certificateSha256": "1eaecbe9d84ef2571b66bad83e3d1bc1cf13f7215351d5615b7c24d737fffaf5",
-    "changelog": "Optimización: R8 y reducción de recursos en release (APK firmado de 11,9 MB a 1,3 MB), iconos propios en lugar de la biblioteca extendida, Baseline Profile, UID y botón para abrir la app en el detalle.\n\nNovedades: pantalla de detalle completa (origen de instalación, SDK mínimo y objetivo, permisos concedidos), orden por nombre, tamaño, fecha de instalación y de actualización, extracción por lote con progreso y cancelación, exportación de iconos a carpeta o por compartir, vista previa del formato de nombre, nombres únicos dentro de un lote, ajustes en pantalla propia, idioma por defecto según el sistema.\n\nMejoras de exportación: conserva la extensión .apks, admite nombres largos con caracteres internacionales y evita que dos apps compartidas con el mismo nombre sobrescriban sus archivos."
+    "changelog": "# APK 0.1.2\r\n\r\n- Nuevo icono de la aplicación, con mejor lectura en launcher, tema monocromo y ficha de la tienda."
   }
 }
