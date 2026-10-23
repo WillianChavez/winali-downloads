@@ -1,0 +1,20 @@
+﻿{
+    "schemaVersion":  1,
+    "packageName":  "io.github.willianchavez.books",
+    "release":  {
+                    "versionCode":  1026,
+                    "versionName":  "0.1.26",
+                    "minSdk":  26,
+                    "architectures":  [
+                                          "arm64-v8a",
+                                          "armeabi-v7a",
+                                          "x86",
+                                          "x86_64"
+                                      ],
+                    "url":  "https://willianchavez.github.io/winali-downloads/apps/books/0.1.26/books.apk",
+                    "size":  10538223,
+                    "sha256":  "e40602578bdaf51b9deef7f90eabbc2bb7d871b8d27a718f8b98220cf9117e27",
+                    "certificateSha256":  "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
+                    "changelog":  "Books 0.1.26\r\n\r\n- El botón ↕ ahora pasa las páginas solo, con la animación normal de página. Una línea muy tenue en el borde inferior confirma que está activo unos segundos al empezar y avisa en los últimos 3 segundos antes de cada cambio; el resto del tiempo no se ve. Antes avanzaba tan despacio que parecía no hacer nada. Se detiene al tocar la pantalla, al llegar al final del libro o al salir de la app; también funciona en PDF.\r\n- La velocidad se ajusta en Ajustes \u003e Controles como «Segundos por página» (de 4 a 160 s)."
+                }
+}
