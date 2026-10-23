@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.focus",
+  "release": {
+    "versionCode": 1003,
+    "versionName": "0.1.3",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/focus/0.1.3/focus.apk",
+    "size": 1546617,
+    "sha256": "cfef3f0770c9cba3553dd6380ae22b5d466034a5793797136c1394b3016e0f1f",
+    "certificateSha256": "07de6d42b81a25759173f18484cbd800c4b2fe63914a4acd9d7d84ab21f9cadc",
+    "changelog": "# Focus 0.1.3\n\n- Notas rápidas temporales: se completan al marcarse o al terminar el tiempo y no se guardan como historial.\n- Las notas rápidas pueden repetirse y reaparecen según el intervalo configurado.\n- Nuevo onboarding guiado para explicar Focus y activar las notas rápidas desde el primer uso.\n- Reportes ahora están dentro de Ajustes; se eliminó Bosque de la navegación principal.\n- Se puede elegir el día en que empieza la semana, con lunes como opción predeterminada."
+  }
+}
