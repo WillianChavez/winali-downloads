@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "packageName": "io.github.willianchavez.apk",
   "release": {
-    "versionCode": 1002,
-    "versionName": "0.1.2",
+    "versionCode": 1004,
+    "versionName": "0.1.4",
     "minSdk": 26,
     "architectures": [
       "arm64-v8a",
@@ -11,10 +11,10 @@
       "x86",
       "x86_64"
     ],
-    "url": "https://willianchavez.github.io/winali-downloads/apps/apk/0.1.2/apk.apk",
-    "size": 1360263,
-    "sha256": "ab3c8c01f5788bf6166d9fc0f23a5789a13198e282f9080aa8398b8da44041ce",
+    "url": "https://willianchavez.github.io/winali-downloads/apps/apk/0.1.4/apk.apk",
+    "size": 1582079,
+    "sha256": "0396195db934f9a52fb7871e0aba06725f55aee4300210d125acb80ccbe7a40d",
     "certificateSha256": "1eaecbe9d84ef2571b66bad83e3d1bc1cf13f7215351d5615b7c24d737fffaf5",
-    "changelog": "# APK 0.1.2\r\n\r\n- Nuevo icono de la aplicación, con mejor lectura en launcher, tema monocromo y ficha de la tienda."
+    "changelog": "# APK 0.1.4\r\n\r\n- Nuevo icono 3D azul y cian, con caja y flecha de extracción.\r\n- Icono adaptativo y versión monocroma para los temas de Android."
   }
 }
