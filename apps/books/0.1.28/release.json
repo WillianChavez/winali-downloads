@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.books",
+  "release": {
+    "versionCode": 1028,
+    "versionName": "0.1.28",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/books/0.1.28/books.apk",
+    "size": 10765423,
+    "sha256": "6a91fedd2ad89d503266a02c8d2aa4ec9090a5c3d9ec58aa3549affcd767a05f",
+    "certificateSha256": "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
+    "changelog": "# Books 0.1.28\r\n\r\n- Nuevo icono 3D azul y cian, con libro abierto, coordinado con las demás apps.\r\n- Conserva el icono monocromo para los temas de Android."
+  }
+}

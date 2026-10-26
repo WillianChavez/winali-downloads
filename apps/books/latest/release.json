@@ -1,20 +1,20 @@
-﻿{
-    "schemaVersion":  1,
-    "packageName":  "io.github.willianchavez.books",
-    "release":  {
-                    "versionCode":  1027,
-                    "versionName":  "0.1.27",
-                    "minSdk":  26,
-                    "architectures":  [
-                                          "arm64-v8a",
-                                          "armeabi-v7a",
-                                          "x86",
-                                          "x86_64"
-                                      ],
-                    "url":  "https://willianchavez.github.io/winali-downloads/apps/books/0.1.27/books.apk",
-                    "size":  10538395,
-                    "sha256":  "c7103e64c2078fd436c48723da8973ee0905bb2e8f9a15729661d6ca9da56e0f",
-                    "certificateSha256":  "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
-                    "changelog":  "Books 0.1.27\r\n\r\n- En libros escaneados con OCR, el índice impreso se muestra con una línea por capítulo, puntos guía y el número de página a la derecha, en lugar de un párrafo corrido.\r\n- Las enumeraciones numeradas dentro del texto («…reglas: 1. Una. 2. Otra. 3. …») se muestran como lista numerada con sangría francesa."
-                }
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.books",
+  "release": {
+    "versionCode": 1028,
+    "versionName": "0.1.28",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/books/0.1.28/books.apk",
+    "size": 10765423,
+    "sha256": "6a91fedd2ad89d503266a02c8d2aa4ec9090a5c3d9ec58aa3549affcd767a05f",
+    "certificateSha256": "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
+    "changelog": "# Books 0.1.28\r\n\r\n- Nuevo icono 3D azul y cian, con libro abierto, coordinado con las demás apps.\r\n- Conserva el icono monocromo para los temas de Android."
+  }
 }
