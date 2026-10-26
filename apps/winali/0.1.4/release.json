@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.winali",
+  "release": {
+    "versionCode": 1004,
+    "versionName": "0.1.4",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/winali/0.1.4/winali.apk",
+    "size": 2013678,
+    "sha256": "f190047a9eb1840cecaf34c6513b0e9a713f36a67b994ffaa8f0769c0cb75f3b",
+    "certificateSha256": "9f497c6ba4e2838e0a472a9b9c99ffc12692777b221c84209f2e2c367b45072d",
+    "changelog": "- Nuevo icono 3D azul y cian para Winali.\n- Fichas del catálogo con los nuevos iconos de APK, Focus, Read y Books, y copias locales de los seis iconos disponibles sin conexión.\n- Actualizaciones de las apps del catálogo sin reinstalar la tienda."
+  }
+}
