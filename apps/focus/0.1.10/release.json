@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.focus",
+  "release": {
+    "versionCode": 1010,
+    "versionName": "0.1.10",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/focus/0.1.10/focus.apk",
+    "size": 1794765,
+    "sha256": "42caefa7741eab46b4c61d1125ecbe158d8d9c3f3496adb99ac56d79ecf6c923",
+    "certificateSha256": "07de6d42b81a25759173f18484cbd800c4b2fe63914a4acd9d7d84ab21f9cadc",
+    "changelog": "# Focus 0.1.10\r\n\r\n- Mueve la barra lateral hacia arriba o abajo, directamente o manteniéndola presionada, sin abrir las notas por pequeños movimientos involuntarios.\r\n- Ajusta la transparencia del fondo de Notas en Ajustes.\r\n- El fondo ocupa también las zonas superior e inferior, conservando los controles fuera de las barras del sistema.\r\n- Notas abre directamente el listado, sin introducciones ni un campo de escritura permanente. Usa + para añadir.\r\n- Tarjetas redondeadas, texto con más énfasis y editor sin recuadros de borde. Fondo desenfocado en los dispositivos que lo permiten.\r\n- El gesto Atrás oculta primero el teclado; otro gesto cierra el panel. No se vuelve a abrir el teclado al terminar de guardar."
+  }
+}
