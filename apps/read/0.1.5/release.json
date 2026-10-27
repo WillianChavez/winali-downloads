@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.read",
+  "release": {
+    "versionCode": 1005,
+    "versionName": "0.1.5",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/read/0.1.5/read.apk",
+    "size": 9530102,
+    "sha256": "6dd4fc2d4597dcae8e6354a10ad3af3d4be2e1e4d4990afb5aa14fdb184c6b8b",
+    "certificateSha256": "dd6ee4514740d45beab6a092b117c57d5f3e51cde311dcc0c92ac71cb6d78b99",
+    "changelog": "# Read 0.1.5\n\n- Los documentos recibidos de otras apps se conservan completos para volver a abrirlos, guardarlos y compartirlos.\n- Se evita guardar o compartir copias vacías y se muestran los errores de transferencia.\n- Inicio con buscador, acceso a escanear y últimos documentos en Continuar.\n- Los documentos paginados recuerdan la última página abierta.\n- Lector con el nombre del archivo visible y las acciones mejor organizadas.\n- Superficies más limpias en claro y oscuro, mejor separación de documentos y cuadrícula adaptada a letras grandes.\n- Nuevo icono azul y cian con volumen, a juego con la familia de apps."
+  }
+}
