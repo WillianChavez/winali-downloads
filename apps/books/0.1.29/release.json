@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "packageName": "io.github.willianchavez.books",
+  "release": {
+    "versionCode": 1029,
+    "versionName": "0.1.29",
+    "minSdk": 26,
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "url": "https://willianchavez.github.io/winali-downloads/apps/books/0.1.29/books.apk",
+    "size": 10765431,
+    "sha256": "54d5e641b63f4709a25fc233ed39df7a9b361d793f06ffbd02130bad2113c998",
+    "certificateSha256": "92bcea11f193fc428fb1d92e80df5ca0d99f3c090fea6ef7e5aa524965e60f7b",
+    "changelog": "# Books 0.1.29\r\n\r\n- El avance guardado y el porcentaje de la biblioteca ahora representan el progreso del libro completo.\r\n- Al girar la tablet se conservan la sección, la búsqueda, el orden, la selección y el borrador de una nota.\r\n- En pantallas anchas, los ajustes y el índice se muestran junto al libro para comparar los cambios mientras lees.\r\n- El pase automático respeta los segundos configurados aunque Android desactive las animaciones.\r\n- Las teclas de volumen vuelven al sistema cuando está desactivado el cambio de página con esas teclas.\r\n- Los controles de lectura tienen nombres y estados accesibles; el mensaje de importación usa un solo idioma.\r\n- El lector notifica a Android cuando cambia la página visible para actualizar el árbol de accesibilidad."
+  }
+}
